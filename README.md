@@ -1,4 +1,4 @@
-# [Portfólio em Django](http://jilcimar.github.io/)
+# [Portfólio em Django](https://github.com/murilothink/)
 
 Olá, eu sou o Murilo, estou cursando o ensino superior na Fatec de Americana, curso Segurança da Informação. Sou Co-Fundador do aplicativo Queridos Textos.
 
